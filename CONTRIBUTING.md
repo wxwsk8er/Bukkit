@@ -3,13 +3,12 @@
 The Bukkit project prides itself on being community built and driven.  We love it when members of our community want to jump right in and get involved, so here's what you need to know.
 
 ## Quick Guide
-1. Create or find an issue to address on our [JIRA issue tracker](http://leaky.bukkit.org).
-- Does your proposed change [fit Bukkit's goals](#does-the-change-fit-bukkits-goals)?
+1. Create or find an issue to address on our issue tracker.
+- Does your proposed change [fit Binder's goals](#does-the-change-fit-binders-goals)?
 - Fork the repository if you haven't done so already.
-- Make your changes in a new branch (if your change affects both Bukkit and CraftBukkit, we highly suggest you use the same name for your branches in both repos).
+- Make your changes in a new branch (if your change affects both Binder and NiceIce, we highly suggest you use the same name for your branches in both repos).
 - Test your changes.
 - Push to your fork and submit a pull request.
-- **Note:** The project is put under a code freeze leading up to the release of a Minecraft update in order to give the Bukkit team a static code base to work on.
 
 ![Life Cycle of a Bukkit Improvement](http://i.imgur.com/Ed6T7AE.png)
 
